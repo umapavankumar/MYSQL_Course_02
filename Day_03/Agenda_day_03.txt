@@ -1,0 +1,7 @@
+Agenda
+******
+1. Transaction Management
+2. Joins
+3. Enum 
+4. Generated Columns
+5.Normalization

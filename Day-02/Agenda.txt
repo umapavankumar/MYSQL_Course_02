@@ -1,0 +1,8 @@
+Agenda
+******
+1. Working with Aggregate Functions
+2. Best Practices.
+3.Optimizations in Table Space usage.
+4.Referential Integrity
+5.Normalizations
+6.Normal Forms.

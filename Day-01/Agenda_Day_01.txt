@@ -1,0 +1,12 @@
+Agenda
+******
+1. Course Structure.
+2.Objectives
+3.Topics to be covered
+4.Lab Environment
+5.Data Base Terminology.
+6.Concept of Keys.
+7.Schema and Instance
+8.Various Languages in Mysql
+9.Normalization
+10.Tasks to perform Day-01

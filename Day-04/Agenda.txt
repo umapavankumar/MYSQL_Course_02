@@ -1,0 +1,7 @@
+Agenda
+******
+1. Normalization
+2.Normal Forms
+3.PL/SQL
+4.Stored Routines
+5.Stored Procedures.

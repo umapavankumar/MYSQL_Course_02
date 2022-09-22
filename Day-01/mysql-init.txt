@@ -1,0 +1,28 @@
+
+Cluster:
+
+mysql -u indiumlab1 -pmaserset321
+
+
+Mysql Text Books:
+
+https://github.com/manjunath5496/MySQL-Books
+
+https://dotnettutorials.net/lesson/most-recommended-mysql-books/
+
+https://dotnettutorials.net/lesson/set-operators-in-mysql/
+
+Transaction management:
+https://www.techtarget.com/searchdatamanagement/feature/An-introduction-to-database-transaction-management
+
+mysql:
+https://www.techbeamers.com/mysql/page/3/
+
+https://www.mysqltutorial.org/mysql-generated-columns/
+
+Window Functions:
+
+https://learnsql.com/blog/mysql-window-functions/
+
+
+
